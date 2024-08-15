@@ -1,0 +1,2 @@
+Hi, this is my assignment 7 repository and file name is assign7.txt
+Here Im adding a new line for commit 
